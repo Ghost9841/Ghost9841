@@ -15,13 +15,12 @@
   <img src="https://komarev.com/ghpvc/?username=ghost9841&label=Profile%20views&color=0e75b6&style=flat" alt="ghost9841" />  
 </p>  
 
--🎓 Currently pursuing a Bachelor of Science (Honours) in Information Technology at Tecsphere College, Kathmandu. Completed +2 in Computer Science with a GPA of 3.68.
--💻 Experienced in Next.js and React.js, with skills in frontend design, API integration, dynamic websites, and CRM systems.
--🌐 Proficient in HTML, CSS, JavaScript, PHP, MySQL, Java Basics, Redux, and UI/UX design using tools like Figma, Adobe Illustrator, and Photoshop.
--🛠️ Developed and deployed projects such as a Customer Relation Management System, a printing press website, and a personal portfolio site using Next.js and other technologies.
--🌟 Working as a Front-end Developer at Saino Tech Pvt. Ltd., contributing to SaaS product development and collaborating with teams to resolve issues.
--🌍 Fluent in Nepali and English, with an active GitHub profile showcasing projects: GitHub - Ghost9841.
--🚀 Passionate about building scalable, high-performance systems and contributing to innovative solutions in web development.
+-🎓 Currently pursuing a Bachelor of Science (Honours) in Information Technology at Tecsphere College, Kathmandu.<br>
+-💻 Experienced in Next.js and React.js, with skills in frontend design, API integration, dynamic websites, and CRM systems. <br>
+-🌐 Proficient in HTML, CSS, JavaScript, PHP, MySQL, Java, Redux, and UI/UX design using tools like Figma, Adobe Illustrator, and Photoshop. <br>
+-🛠️ Developed and deployed projects such as a Customer Relation Management System. <br>
+-🌍 Fluent in Nepali and English, with an active GitHub profile showcasing projects <br>
+-🚀 Passionate about building scalable, high-performance systems and contributing to innovative solutions in web development. <br>
 
 ## 🌐 Connect with Me  
 
