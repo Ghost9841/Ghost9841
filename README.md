@@ -15,12 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=ghost9841&label=Profile%20views&color=0e75b6&style=flat" alt="ghost9841" />  
 </p>  
 
--🎓 Currently pursuing a Bachelor of Science (Honours) in Information Technology at Tecsphere College, Kathmandu.<br>
--💻 Experienced in Next.js and React.js, with skills in frontend design, API integration, dynamic websites, and CRM systems. <br>
--🌐 Proficient in HTML, CSS, JavaScript, PHP, MySQL, Java, Redux, and UI/UX design using tools like Figma, Adobe Illustrator, and Photoshop. <br>
--🛠️ Developed and deployed projects such as a Customer Relation Management System. <br>
--🌍 Fluent in Nepali and English, with an active GitHub profile showcasing projects <br>
--🚀 Passionate about building scalable, high-performance systems and contributing to innovative solutions in web development. <br>
+- Full Stack Developer, Web and Mob 
 
 ## 🌐 Connect with Me  
 
