@@ -1,4 +1,3 @@
-
 <h1>  
   <picture>  
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=I'm+Aakash+Subedi!">  
@@ -7,21 +6,18 @@
   </picture>  
 </h1>  
 
-
-<img align="right" alt="Coding GIF" width="380" src="https://github.com/Ghost9841/Ghost9841/blob/main/github.gif" />
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ghost9841&label=Profile+Views&color=00F0FF&style=flat-square" alt="ghost9841" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **MyLifeQuest** & other creative web apps  
-- 🌱 I’m exploring **Next.js**, **AI integrations**, and **game dev concepts**  
-- 💡 Passionate about clean UI, immersive UX, and meaningful digital experiences  
-- 🎯 Goal: To build products that inspire and help people grow  
-- 🌏 From **Nepal**, building for the **world**  
+### About Me
+- Web developer focused on Next.js, React, and modern frontend ecosystems
+- Experience building real-world projects with attention to code quality, UX, and maintainabilit
+- Interested in AI-powered features, performance optimization, and scalable UI systems (recently build a RAG System)
+- Proactive learner with hands-on experience in full-stack fundamentals
+- Based in Nepal, open to remote collaboration and mentorship
 
 ---
 
