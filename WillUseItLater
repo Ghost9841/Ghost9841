@@ -1,0 +1,374 @@
+<div align="center">
+
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aakash%20Subedi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+
+<!-- Dynamic Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%7C+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+AI-Powered+Web+Experiences;Next.js+%E2%9A%A1+React+%E2%9A%A1+TypeScript+%E2%9A%A1+Three.js" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Stats Badges -->
+<img src="https://komarev.com/ghpvc/?username=ghost9841&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/ghost9841?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="Followers" />
+<img src="https://img.shields.io/github/stars/ghost9841?label=Total%20Stars&style=for-the-badge&color=ffd700&labelColor=1a1b27" alt="Total Stars" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Developer Profile
+
+```javascript
+const aakash = {
+    location: "Kathmandu, Nepal 🇳🇵",
+    role: "Full-Stack Developer",
+    education: "Computer Science",
+    currentFocus: ["AI/ML", "3D Web", "Next.js"],
+    askMeAbout: [
+        "Web Development",
+        "RAG Systems", 
+        "3D Graphics",
+        "UI/UX Design"
+    ],
+    technologies: {
+        frontend: ["Next.js", "React", "Three.js"],
+        backend: ["Node.js", "Python", "Java"],
+        ai: ["OpenAI", "LangChain", "TensorFlow"],
+        design: ["Figma", "Blender", "Spline"]
+    },
+    funFact: "I turn coffee into code ☕→💻"
+};
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Quick Highlights
+
+- 🔭 Currently working on **AI-powered applications**
+- 🌱 Learning **Advanced Three.js & WebGL**
+- 🤝 Open for **collaboration** on innovative projects
+- 💼 Building **RAG systems** and **immersive web experiences**
+- 📫 Reach me: **aakash.subedi9841@gmail.com**
+- ⚡ Recently shipped: **3D Portfolio** + **RAG Chatbot**
+
+<br/>
+
+**🏆 2025 Goals:**
+- Launch 3 production AI products
+- Contribute to open-source WebGL projects
+- Build a developer community in Nepal
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/aakash-subedi-b5401b215/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="40" alt="LinkedIn"/>
+</a>
+<a href="https://ghost9841.github.io/personal-porfolio-app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" height="40" alt="Portfolio"/>
+</a>
+<a href="mailto:aakash.subedi9841@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="40" alt="Email"/>
+</a>
+<a href="https://www.instagram.com/aakashsubedi8/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="40" alt="Instagram"/>
+</a>
+<a href="https://www.facebook.com/aakash.subedi.545">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" height="40" alt="Facebook"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+<!-- Programming Languages -->
+### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css&theme=dark" height="50" alt="Languages"/>
+
+<!-- Frontend Technologies -->
+### Frontend & 3D
+<img src="https://skillicons.dev/icons?i=nextjs,react,threejs,tailwind,vite,redux&theme=dark" height="50" alt="Frontend"/>
+
+<!-- Backend & AI -->
+### Backend & AI/ML
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,tensorflow,pytorch,fastapi&theme=dark" height="50" alt="Backend"/>
+
+<!-- Databases -->
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase&theme=dark" height="50" alt="Databases"/>
+
+<!-- Design & Tools -->
+### Design & DevOps
+<img src="https://skillicons.dev/icons?i=figma,blender,photoshop,git,github,docker,vercel&theme=dark" height="50" alt="Tools"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ghost9841&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghost9841&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost9841&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghost9841&theme=radical&utcOffset=5.75" alt="Productive Time" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghost9841&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF" width="100%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ghost9841&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghost9841/ghost9841/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghost9841/ghost9841/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ghost9841/ghost9841/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 RAG Chatbot System
+*AI-powered document Q&A with vector embeddings*
+
+**Tech Stack:**
+- Python, LangChain, OpenAI
+- Vector Database (Pinecone)
+- FastAPI Backend
+- React Frontend
+
+```python
+# Smart document retrieval
+retriever = get_vectorstore().as_retriever()
+qa_chain = ConversationalRetrievalChain.from_llm(
+    llm=ChatOpenAI(model="gpt-4"),
+    retriever=retriever
+)
+```
+
+<img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 3D Portfolio Website
+*Immersive portfolio with Three.js & GSAP animations*
+
+**Features:**
+- Interactive 3D models
+- Smooth scroll animations
+- Dark/Light mode
+- Responsive design
+
+```javascript
+// Three.js 3D scene setup
+const scene = new THREE.Scene();
+const geometry = new THREE.TorusKnotGeometry(10, 3, 100, 16);
+const material = new THREE.MeshStandardMaterial({
+  color: 0x00d9ff
+});
+```
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Latest Blog Posts & Activity
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Building RAG Systems: A Complete Guide
+- 🎨 Creating Immersive 3D Web Experiences with Three.js
+- ⚡ Next.js 15: What's New and Exciting
+- 🤖 Integrating AI into Modern Web Applications
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   12 hrs 30 mins  ███████████░░░░░░  45.2%
+Python        8 hrs 15 mins  ████████░░░░░░░░░  29.8%
+JavaScript    4 hrs 20 mins  ████░░░░░░░░░░░░░  15.7%
+CSS           1 hr 45 mins   █░░░░░░░░░░░░░░░░   6.3%
+JSON          0 hrs 52 mins  ░░░░░░░░░░░░░░░░░   3.0%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House" alt="Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠 Learning
+- Advanced WebGL
+- AI/ML Optimization
+- Cloud Architecture
+
+</td>
+<td align="center" width="33%">
+
+### 🔨 Building
+- SaaS AI Platform
+- 3D Game Engine
+- Developer Tools
+
+</td>
+<td align="center" width="33%">
+
+### 🌱 Growing
+- Open Source Contrib.
+- Technical Writing
+- Community Building
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Let's Collaborate!
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="100" height="100" />
+
+**I'm always open to:**
+- 🚀 Innovative web projects
+- 🤖 AI/ML collaborations
+- 🎨 Open source contributions
+- 💡 Freelance opportunities
+- 🎓 Mentoring & knowledge sharing
+
+**Best way to reach me:**
+📧 aakash.subedi9841@gmail.com
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Support My Work
+
+If you like my projects, consider buying me a coffee! ☕
+
+<a href="https://www.buymeacoffee.com/aakashsubedi">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="50" alt="Buy Me A Coffee"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *"Code is poetry written in logic"* ✨
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+**⭐ From [Ghost9841](https://github.com/Ghost9841) with 💙**
+
+</div>
