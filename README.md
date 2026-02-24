@@ -88,8 +88,6 @@
     </tr>
   </table>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghost9841&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FF6B6B&area_color=00F0FF" width="100%" />
-  
 </div>
 
 ---
