@@ -62,15 +62,6 @@
   
 </div>
 
----
-
-<!-- 3D Code Scene -->
-<div align="center">
-  <h3>💻 Current Vibe</h3>
-  <spline-viewer url="https://prod.spline.design/XxXxXxXxXxXxXxX/scene.splinecode" style="width: 100%; max-width: 600px; height: 300px; border-radius: 15px;"></spline-viewer>
-</div>
-
----
 
 <!-- Animated Stats Dashboard -->
 <div align="center">
@@ -92,45 +83,6 @@
 
 ---
 
-<!-- 3D Interactive Skills -->
-<div align="center">
-  
-  ### 🛠️ Tech Arsenal
-  
-  <details>
-    <summary><b>⚡ Frontend & 3D</b></summary>
-    <br>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spline-FF69B4?style=for-the-badge&logo=spline&logoColor=white" />
-  </details>
-  
-  <details>
-    <summary><b>🔧 Backend & AI</b></summary>
-    <br>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  </details>
-  
-  <details>
-    <summary><b>🎨 Design & Tools</b></summary>
-    <br>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </details>
-  
-</div>
-
----
 
 <!-- 3D Contribution Snake -->
 <div align="center">
@@ -150,5 +102,4 @@
 <!-- Quote & Footer -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=In+Love+And+Hate+Relationship+With+Coding&author=Ghost" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer" width="100%" />
 </div>
